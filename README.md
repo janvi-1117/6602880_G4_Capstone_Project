@@ -1,1 +1,2 @@
-major_project_used_cars_analysis
+Major Project
+Used Cars Analysis
